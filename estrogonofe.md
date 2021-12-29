@@ -1,5 +1,7 @@
-#Estrogonofe de Frango **
+# Estrogonofe de Frango 
 
+# Ingredientes
+    
     3 peitos de frango cortados em cubos
 
     1 dente de alho picado
@@ -22,7 +24,7 @@
 
     batata palha a gosto
 
-##Modo de Preparo **
+## Modo de Preparo
 
     Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
